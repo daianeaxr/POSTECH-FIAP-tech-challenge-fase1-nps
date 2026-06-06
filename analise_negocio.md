@@ -103,8 +103,8 @@ Variáveis operacionais disponíveis antes ou no momento da entrega:
 
 ### Modelos avaliados
 
-| Modelo | Vantagem | Limitação |
-|---|---|---|
+| Modelo | 
+|---|
 | Regressão Logística  |
 | Random Forest |
 | Gradient Boosting |
