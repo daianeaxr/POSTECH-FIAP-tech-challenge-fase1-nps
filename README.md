@@ -2,11 +2,11 @@
 
 ## Objetivo do Projeto
 
-Este projeto tem como objetivo analisar dados operacionais de um e-commerce para entender os fatores que influenciam a satisfação dos clientes (medida pelo NPS — Net Promoter Score) e construir um modelo preditivo capaz de antecipar o nível de satisfação antes da aplicação da pesquisa.
+Este projeto tem como objetivo analisar dados operacionais e entender os fatores que influenciam a satisfação dos clientes (medida pelo NPS) e construir um modelo preditivo capaz de antecipar o nível de satisfação antes da aplicação da pesquisa.
 
 ---
 
-## 📁 Estrutura de Pastas
+## 📁 Estrutura das Pastas
 
 ```
 nps_project/
