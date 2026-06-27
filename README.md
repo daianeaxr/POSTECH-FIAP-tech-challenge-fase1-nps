@@ -1,4 +1,4 @@
-# 📊 Tech Challenge Fase 1 — NPS Preditivo
+#  Tech Challenge Fase 1 — NPS Preditivo
 
 ## Objetivo do Projeto
 
@@ -6,7 +6,7 @@ Este projeto tem como objetivo analisar dados operacionais e entender os fatores
 
 ---
 
-## 📁 Estrutura das Pastas
+## Estrutura das Pastas
 
 ```
 nps_project/
@@ -35,7 +35,7 @@ nps_project/
 
 ---
 
-## 🗂️ Descrição da Base de Dados
+## Descrição da Base de Dados
 
 | Variável | Descrição |
 |---|---|
@@ -61,7 +61,7 @@ nps_project/
 
 ---
 
-## 🔬 Metodologia
+## Metodologia
 
 1. **Análise exploratória (EDA):** estatísticas descritivas, distribuição do NPS, análise por segmento (promotores, neutros, detratores), correlações e comparativo entre perfis.
 2. **Definição da target:** variável binária — Satisfeito (NPS ≥ 7) vs Insatisfeito (NPS < 7).
@@ -70,7 +70,7 @@ nps_project/
 
 ---
 
-## ▶️ Como Reproduzir
+## Como Reproduzir
 
 ```bash
 # 1. Instalar dependências
@@ -88,7 +88,7 @@ jupyter nbconvert --to notebook --execute notebooks/nps_analise.ipynb --output n
 
 ---
 
-## 👩‍💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python 3.x
 - Pandas, NumPy
